@@ -1,15 +1,14 @@
 body{
 	color: #483D8B;
-	background:#A9A9A9;
+	background:#B0E7B0;
 	font-size: 16px;
 	font-family: Arial, sans-serif;
 }
 h1{
-	font-size: 18px;
+	font-size: 32px;
 	text-align: center;
 }
 
 .title{
-	background-color: #DEB887;
 	border: 1px dotted #8FBC8F;
 }
